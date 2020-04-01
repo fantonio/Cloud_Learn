@@ -1,13 +1,9 @@
 # CLOUD LEARN
 > Este repositório tem por objetivo armazenar todo o aprendizado em Cloud Native.
 
-[![Jenkins Version][docs/resources/jenkins.png]][jenkins-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
+A motivação da criação deste repositório foi o aprendizado e a necessidade de mudar o pré set para **Nativo de Nuvem**. Este termo (__Cloud Native__) tem cada vez mais ganhado espaço em nosso meio, e nada mais realista do que uma imersão junto a toda está ideia, que colaboram para fomentar a comunidade a utilizar grandes projetos que vai desde orquestração até arquitetura de microserviços.
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
-
-![](../header.png)
+![Cloud Native](docs/resources/cloud_native.png "Cloud Native")
 
 ## Instalação
 
