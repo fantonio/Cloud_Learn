@@ -3,7 +3,7 @@
 
 A motivação da criação deste repositório foi o aprendizado e a necessidade de mudar o pré set para **Nativo de Nuvem**. Este termo (__Cloud Native__) tem cada vez mais ganhado espaço em nosso meio, e nada mais realista do que uma imersão junto a toda está ideia, que colaboram para fomentar a comunidade a utilizar grandes projetos que vai desde orquestração até arquitetura de microserviços.
 
-![Cloud Native](docs/resources/cloud_native.png "Cloud Native")
+![Cloud Native](docs/resources/cloud_native_1.png "Cloud Native")
 
 ## Instalação
 
