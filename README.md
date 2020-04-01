@@ -7,7 +7,24 @@ A motivação da criação deste repositório foi o aprendizado e a necessidade 
 
 ## Instalação
 
-OS X & Linux:
+[Jenkins](/Jenkins/jenkins.md)
+[Terraform](/Terraform/terraform.md)
+[Kubernetes](Kubernetes/kubernetes.md)
+[Istio](Istio/istio.md)
+[Vault](Vault/vault.md)
+[Ansible]()
+[Gitlab]()
+[Prometheus]()
+[Packer](Packer/packer.md)
+[ElasticSeach]()
+[Docker]()
+[Logstash]()
+[Redis]()
+[Mongo]()
+[Nginx]()
+[Kafka]()
+[Kong]()
+
 
 ```sh
 npm install my-crazy-module --save
