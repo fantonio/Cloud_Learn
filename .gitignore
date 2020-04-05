@@ -1,0 +1,4 @@
+# Ignore JSON system files in Terraform
+/GCP/GKE/*.JSON
+/GCP/GKE/*.tfvars
+
