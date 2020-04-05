@@ -1,1 +1,0 @@
-{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"gke","Source":"terraform-google-modules/kubernetes-engine/google","Version":"7.3.0","Dir":".terraform/modules/gke/terraform-google-kubernetes-engine-7.3.0"}]}
