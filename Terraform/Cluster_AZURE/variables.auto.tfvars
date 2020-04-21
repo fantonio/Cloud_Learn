@@ -1,0 +1,11 @@
+credentials        = "./doca-265013-c977403518ea.json"
+project_id         = "doca-265013"
+region             = "us-central1"
+//zones              = ["us-central1", "us-west1"]
+name               = "gke-cluster"
+machine_type       = "n1-standard-1"
+min_count          = 1
+max_count          = 3
+disk_size_gb       = 10
+service_account    = "terraform@doca-265013.iam.gserviceaccount.com"
+initial_node_count = 1
