@@ -1,0 +1,11 @@
+credentials        = "PATH_TO_CREDENTIAL
+project_id         = "<project_name>"
+region             = "<region>"
+zones              = ["<region>-a", "<region>-b", "<region>-c"]
+name               = "<cluster-name>"
+machine_type       = "<machine-type>"
+min_count          = 1
+max_count          = 3
+disk_size_gb       = 10
+service_account    = "<service_account_name>@<project_name>.iam.gserviceaccount.com"
+initial_node_count = 1
