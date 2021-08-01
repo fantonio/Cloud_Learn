@@ -11,23 +11,23 @@ Uma jornada só começa quando aceitamos o desafio de iniciar. Trago nesta sequ�
 - Entendendo Métricas.
 - PromQL o despertar da Força.
 
-##### Instalação do Prometheus.
+### Instalação do Prometheus.
 Markdown is a lightweight markup language based on the formatting conventions
 that people naturally use in email.
 
-##### Arquivos de Configuração Importantes.
+### Arquivos de Configuração Importantes.
 Markdown is a lightweight markup language based on the formatting conventions
 that people naturally use in email.
 
-##### Scrap qual a sua Função.
+### Scrap qual a sua Função.
 Markdown is a lightweight markup language based on the formatting conventions
 that people naturally use in email.
 
-##### Entendendo Métricas.
+### Entendendo Métricas.
 Markdown is a lightweight markup language based on the formatting conventions
 that people naturally use in email.
 
-##### PromQL o despertar da Força.
+### PromQL o despertar da Força.
 Markdown is a lightweight markup language based on the formatting conventions
 that people naturally use in email.
 
