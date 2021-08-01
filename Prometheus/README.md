@@ -1,7 +1,7 @@
 # Prometheus
 [![prometheus](https://4allportal.net/fileadmin/user_upload/integrations/prometheus-550x120.png)](https://prometheus.io)
 
-Uma jornada só começa quando aceitamos inicia-lá. Trago nesta sequêcia minhas experiências de aprendizado com está ferramenta poderosa de extração de coleta de métrica. Ela é um software Open Source que está contida no arcabolso de ferramentas denominadas Cloud Native.
+Uma jornada só começa quando aceitamos o desafio de iniciar. Trago nesta sequêcia minhas experiências de aprendizado com está ferramenta poderosa de extração de coleta de métrica. Ela é um software Open Source que está contida no arcabolso de ferramentas denominadas Cloud Native.
 
 ## Prometheus do Container ao PromQL
 
